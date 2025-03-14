@@ -3,7 +3,7 @@ local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/shle
 
 -- Main Window Configuration
 local Window = Rayfield:CreateWindow({
-    Name = "🍪 Cookie Hub DEV",
+    Name = "🍪 Cookie Hub D.E.V",
     Icon = 10888384525, -- Replace with your icon ID
     LoadingTitle = "Loading Fisch Event System...",
     LoadingSubtitle = "Cookie Hub Developer Edition",
