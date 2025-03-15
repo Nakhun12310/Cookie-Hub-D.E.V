@@ -25,7 +25,7 @@ local titleLabel = Instance.new("TextLabel")
 titleLabel.Size = UDim2.new(0, 200, 0, 30)
 titleLabel.Position = UDim2.new(0, 10, 0, 10)
 titleLabel.BackgroundTransparency = 1
-titleLabel.Text = "Cookie Hub Dev Fisch"
+titleLabel.Text = "Cookie Hub Developer Fisch"
 titleLabel.Font = Enum.Font.GothamBold
 titleLabel.TextSize = 16
 titleLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
@@ -36,7 +36,7 @@ local welcomeLabel = Instance.new("TextLabel")
 welcomeLabel.Size = UDim2.new(0, 120, 0, 30)
 welcomeLabel.Position = UDim2.new(1, -130, 0, 10)
 welcomeLabel.BackgroundTransparency = 1
-welcomeLabel.Text = "Welcome,\nXelb"
+welcomeLabel.Text = "Welcome,\Developer!"
 welcomeLabel.TextWrapped = true
 welcomeLabel.Font = Enum.Font.Gotham
 welcomeLabel.TextSize = 14
@@ -196,8 +196,8 @@ local function loadPlaceConfig()
             warn("Failed to load script from GitHub: " .. fileUrl)
         end
     else
-        titleLabel.Text = "Cookie Hub Dev Fisch"
-        linkBox.Text = "No specific hub found."
+        titleLabel.Text = "Cookie Hub Developer Fisch"
+        linkBox.Text = "Not any hub has been found"
     end
 end
 
