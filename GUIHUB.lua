@@ -1,4 +1,4 @@
--- GUIHUB.lua
+
 
 local placeId = game.PlaceId
 local player = game.Players.LocalPlayer
