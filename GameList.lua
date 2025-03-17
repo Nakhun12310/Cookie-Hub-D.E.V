@@ -9,8 +9,8 @@ local Games = {
   [10449761463] = "nil",  -- The Strongest Battlegrounds
   [18901165922] = "nil", -- Pet GO
   [16732694052] = "https://raw.githubusercontent.com/Nakhun12310/CookieHub/refs/heads/main/FischTest.lua", -- Fisch
-  [116495829188952] = "nil", -- Dead Rails
-  [70876832253163] = "nil", -- Dead Rails
+  [116495829188952] = "https://raw.githubusercontent.com/Nakhun12310/CookieHub/refs/heads/main/TestDeadRails.lua", -- Dead Rails
+  [70876832253163] = "https://raw.githubusercontent.com/Nakhun12310/CookieHub/refs/heads/main/TestDeadRails.lua", -- Dead Rails
 }
 
 return Games
